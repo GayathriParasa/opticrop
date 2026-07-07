@@ -78,5 +78,5 @@ Upload files, install requirements, then configure WSGI to point to `app.py`.
 ## Pages
 
 - `/` — Solution dashboard with workflow, benefits, and tech stack
-- `/prediction` — Input form + live Random Forest prediction
-- `/about` — Project description
+- `/prediction` — Input form + live Random Forest predictions
+- `/about` — Project descriptions
